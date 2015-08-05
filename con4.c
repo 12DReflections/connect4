@@ -75,8 +75,8 @@ int main(void)
 		break;	
 		}
 	}
-
-
+	//NEED TO FLUSH USER INPUT - week 3 tute files readrestofline() 
+	
 	
 	
 	
